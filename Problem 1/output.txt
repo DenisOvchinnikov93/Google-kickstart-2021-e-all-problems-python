@@ -1,0 +1,3 @@
+Case #1: IMPOSSIBLE
+Case #2: bbaa
+Case #3: bababaac
